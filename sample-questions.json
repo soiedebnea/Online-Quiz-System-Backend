@@ -1,0 +1,4 @@
+[
+  { "text": "What is 2 + 2?", "options": ["3", "4", "5", "6"], "correctIndex": 1, "category": "Math", "difficulty": "easy", "points": 1, "timeLimit": 20 },
+  { "text": "Capital of France?", "options": ["Berlin", "Madrid", "Paris", "Rome"], "correctIndex": 2, "category": "Geography", "difficulty": "easy", "points": 1 }
+]
